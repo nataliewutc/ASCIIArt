@@ -13,5 +13,6 @@ The code uses the gets the brightness pixel data from the image and allocates a 
 A summer project to utilise and further python skills learnt in the first year of university. 
 To further this project, I will be learning WebRTC and coding a video call platform which would have a video display of ASCII images. 
 
-With guidance from: 
+## Appendix 
+
 https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/
