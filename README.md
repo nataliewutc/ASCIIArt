@@ -1,7 +1,7 @@
 # ASCII Art Generator 
 
 ![lion2](https://user-images.githubusercontent.com/81494714/134681745-652c9483-2de4-42f6-867f-417ecf4925e4.png)  < Original Image 
-![ASCII lion ](https://user-images.githubusercontent.com/81494714/134681785-039cbc73-9513-4879-a0c4-4c94d17a352e.jpg)
+![ASCII lion ](https://user-images.githubusercontent.com/81494714/134681785-039cbc73-9513-4879-a0c4-4c94d17a352e.jpg = 150x150)
 
 ## What it does 
 
