@@ -6,7 +6,7 @@
 ## What it does 
 
 An ASCII image generator where it takes an input image and turns it into ASCII art. 
-The code uses the gets the brightness pixel data from the image and allocates a character to the pixel depending on its brightness. 
+The code gets the brightness pixel data from the image and allocates a character to the pixel depending on its brightness. 
 
 ## Why I made it 
 
